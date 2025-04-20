@@ -9,3 +9,4 @@ Use python FIGlet module to generate unique large letters out of ordinary text w
 3. Outputs that text in the desired font.<br/><br/>
 
 ## ⚙️ Demo
+<img src="https://github.com/ayahkashif/Figlet/blob/main/demo.png" width="618" height="772">
